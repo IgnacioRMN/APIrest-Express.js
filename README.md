@@ -143,6 +143,11 @@ Headers: Authorization: Bearer <token>
 
 ---
 
+## ⚠️ Nota Importante
+
+Aunque esta es una primera versión funcional, el proyecto está en desarrollo activo y está sujeto a futuras mejoras y actualizaciones, como manejo de errores, escalabilidad y seguridad, entre otras.
+
+
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**.
